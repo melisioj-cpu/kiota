@@ -52,5 +52,6 @@
   "dotnet-test-explorer.testProjectPath": "tests/**/*.Tests.csproj",
   "editor.formatOnSave": true,
   "dotnet.defaultSolution": "kiota.sln",
-  "azure-pipelines.1ESPipelineTemplatesSchemaFile": true
+  "azure-pipelines.1ESPipelineTemplatesSchemaFile": true,
+  "workbench.editor.limit.perEditorGroup": true
 }
